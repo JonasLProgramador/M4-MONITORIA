@@ -1,46 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Projeto MVC com Node.js e Express</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        .code-block {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            border: 1px solid #ddd;
-        }
-        ul {
-            list-style-type: disc;
-            margin: 0;
-            padding: 0 0 0 20px;
-        }
-    </style>
-</head>
 <body>
     <h1>🛒 Projeto de Loja Virtual com Arquitetura MVC</h1>
     <p>Este projeto foi desenvolvido durante uma monitoria no curso <strong>Programadores do Amanhã</strong> para praticar a construção de uma aplicação utilizando a arquitetura MVC (Model-View-Controller) com Node.js e Express.</p>
